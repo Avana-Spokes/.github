@@ -1,4 +1,4 @@
-# Avana
+![Avana Logo BG](./Avana%20Logo%20BG.png)
 
 Getting liquidity in DeFi shouldn’t mean giving up your position. **Avana** lets users borrow against their LP positions, turning active liquidity into productive collateral.
 
